@@ -5,7 +5,7 @@ export default {
   instaURL: "https://www.instagram.com/khoulouud_hamdi/",
   githubURL: "https://github.com/khouloud9698",
   linkedinURL: "https://www.linkedin.com/in/khouloud-hamdi-6b3a27197/",
-  resumeURL: "https://sshyam-gupta.netlify.com/static/resume.pdf",
+  resumeURL: "https://khouloud-resume.netlify.app//static/resume.pdf",
   skills: [
     {
       title: "Languages: ",
