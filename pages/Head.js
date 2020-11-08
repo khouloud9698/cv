@@ -2,14 +2,14 @@ import Head from "next/head";
 
 export default () => (
   <Head>
-    <title>Resume | Shyam Gupta</title>
+    <title>Resume | Khouloud Hamdi</title>
     <meta charSet="UTF-8" />
     <meta content="IE=edge,chrome=1" httpEquiv="X-UA-Compatible" />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
-    <title>Shyam Gupta | Frontend Developer &amp; UX Enthusiast</title>
+    <title>Khouloud Hamdi | Software Developer</title>
     <link
       rel="shortcut icon"
       href="/static/assets/favicon.png"
@@ -38,7 +38,7 @@ export default () => (
       content="development, web, shyam, gupta, javascript, mumbai, india, frontend, react, react native"
     />
 
-    <meta itemProp="name" content="RResume | Khouloud Hamdi" />
+    <meta itemProp="name" content="Resume | Khouloud Hamdi" />
     <meta
       itemProp="description"
       content="Design-minded, detail oriented web developer passionate about combining beautiful code with beautiful design."

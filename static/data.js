@@ -9,7 +9,7 @@ export default {
   skills: [
     {
       title: "Languages: ",
-      info: "Java, JavaFx, Kotlin, C/ C++, Latex, PHP, .Net"
+      info: "Java, JavaFx, Kotlin, C/ C++, Latex, PHP, .Net, Python"
     },
     {
       title: "Libraries & Frameworks: ",
