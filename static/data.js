@@ -25,7 +25,7 @@ export default {
   experiences: [
     {
       companyLink: "https://innovation.orange.tn/projet/orange-developer-center",
-      companyName: "Orange Developer Center",
+      companyName: "Orange Tunisia in partnership with Google",
       companyDuration: "July 2020-September 2020",
       companyDesignation: "Mobile Developer Intern",
       description: (
